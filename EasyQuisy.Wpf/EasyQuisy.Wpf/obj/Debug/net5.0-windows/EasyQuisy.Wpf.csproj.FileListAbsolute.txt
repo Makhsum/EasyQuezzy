@@ -3,7 +3,6 @@ D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\Eas
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\EasyQuisy.Wpf.runtimeconfig.json
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\EasyQuisy.Wpf.runtimeconfig.dev.json
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\EasyQuisy.Wpf.dll
-D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\ref\EasyQuisy.Wpf.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\bin\Debug\net5.0-windows\EasyQuisy.Wpf.pdb
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\EasyQuisy.Wpf.csproj.AssemblyReference.cache
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\MainWindow.g.cs
@@ -20,3 +19,4 @@ D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\Eas
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\ref\EasyQuisy.Wpf.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\EasyQuisy.Wpf.pdb
 D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\EasyQuisy.Wpf.genruntimeconfig.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Wpf\EasyQuisy.Wpf\obj\Debug\net5.0-windows\refint\EasyQuisy.Wpf.dll

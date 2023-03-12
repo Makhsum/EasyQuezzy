@@ -1,6 +1,5 @@
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\bin\Debug\net6.0\EasyQuisy.Domain.deps.json
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\bin\Debug\net6.0\EasyQuisy.Domain.dll
-D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\bin\Debug\net6.0\ref\EasyQuisy.Domain.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\bin\Debug\net6.0\EasyQuisy.Domain.pdb
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQuisy.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQuisy.Domain.AssemblyInfoInputs.cache
@@ -9,3 +8,5 @@ D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQ
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQuisy.Domain.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\ref\EasyQuisy.Domain.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQuisy.Domain.pdb
+D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\EasyQuisy.Domain.csproj.AssemblyReference.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Domain\EasyQuisy.Domain\obj\Debug\net6.0\refint\EasyQuisy.Domain.dll

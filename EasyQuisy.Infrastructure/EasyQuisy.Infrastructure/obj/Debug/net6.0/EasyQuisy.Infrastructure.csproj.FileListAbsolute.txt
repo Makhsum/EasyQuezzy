@@ -1,6 +1,5 @@
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\bin\Debug\net6.0\EasyQuisy.Infrastructure.deps.json
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\bin\Debug\net6.0\EasyQuisy.Infrastructure.dll
-D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\bin\Debug\net6.0\ref\EasyQuisy.Infrastructure.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\bin\Debug\net6.0\EasyQuisy.Infrastructure.pdb
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\EasyQuisy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\EasyQuisy.Infrastructure.AssemblyInfoInputs.cache
@@ -9,3 +8,5 @@ D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\De
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\EasyQuisy.Infrastructure.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\ref\EasyQuisy.Infrastructure.dll
 D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\EasyQuisy.Infrastructure.pdb
+D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\EasyQuisy.Infrastructure.csproj.AssemblyReference.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\obj\Debug\net6.0\refint\EasyQuisy.Infrastructure.dll
