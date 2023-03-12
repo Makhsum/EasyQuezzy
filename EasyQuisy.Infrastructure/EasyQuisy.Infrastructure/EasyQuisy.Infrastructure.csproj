@@ -10,4 +10,8 @@
       <PackageReference Include="Mysql.EntityFrameworkCore" Version="6.0.7" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\EasyQuisy.Application\EasyQuisy.Application\EasyQuisy.Application.csproj" />
+    </ItemGroup>
+
 </Project>
