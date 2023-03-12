@@ -1,0 +1,12 @@
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\bin\Debug\net6.0\EasyQuisy.Application.deps.json
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\bin\Debug\net6.0\EasyQuisy.Application.dll
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\bin\Debug\net6.0\ref\EasyQuisy.Application.dll
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\bin\Debug\net6.0\EasyQuisy.Application.pdb
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.csproj.AssemblyReference.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.AssemblyInfoInputs.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.AssemblyInfo.cs
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.csproj.CoreCompileInputs.cache
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.dll
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\ref\EasyQuisy.Application.dll
+D:\C#Projects\EasyQuisy\EasyQuisy.Application\EasyQuisy.Application\obj\Debug\net6.0\EasyQuisy.Application.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhcP4FqGB+HbFy/XH0aS/bTscjS/gIQC4m2+vNKZ9TH8cfUVCSqZSEximqnBYeoAN23lGxKdEQS5L35doN0MxQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#Projects\\EasyQuisy\\EasyQuisy.Wpf\\EasyQuisy.Wpf\\EasyQuisy.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiiler\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

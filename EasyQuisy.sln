@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuisy.Application", "EasyQuisy.Application", "{12C91FBD-7717-481B-8E80-786B91FCEDB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuisy.Domain", "EasyQuisy.Domain", "{670FD11D-2903-41D6-8FCF-CCE44207C2FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuisy.Infrastructure", "EasyQuisy.Infrastructure", "{042C95BC-FD50-4F3E-85D7-0172782F9FC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuisy.Wpf", "EasyQuisy.Wpf", "{7337DC78-DCD5-4404-B3A1-A319D41F1CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyQuisy.Application", "EasyQuisy.Application\EasyQuisy.Application\EasyQuisy.Application.csproj", "{442257B7-2166-486A-A520-FAAC69AF6559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyQuisy.Domain", "EasyQuisy.Domain\EasyQuisy.Domain\EasyQuisy.Domain.csproj", "{5D586828-8A8C-482B-BA8E-9BB40FDAC764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyQuisy.Infrastructure", "EasyQuisy.Infrastructure\EasyQuisy.Infrastructure\EasyQuisy.Infrastructure.csproj", "{5E45A7BE-88A2-42DE-A329-55DE91982C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyQuisy.Wpf", "EasyQuisy.Wpf\EasyQuisy.Wpf\EasyQuisy.Wpf.csproj", "{D402AB31-B480-446A-A10F-244C39AAEF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{442257B7-2166-486A-A520-FAAC69AF6559} = {12C91FBD-7717-481B-8E80-786B91FCEDB8}
+		{5D586828-8A8C-482B-BA8E-9BB40FDAC764} = {670FD11D-2903-41D6-8FCF-CCE44207C2FA}
+		{5E45A7BE-88A2-42DE-A329-55DE91982C1A} = {042C95BC-FD50-4F3E-85D7-0172782F9FC3}
+		{D402AB31-B480-446A-A10F-244C39AAEF88} = {7337DC78-DCD5-4404-B3A1-A319D41F1CB5}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442257B7-2166-486A-A520-FAAC69AF6559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442257B7-2166-486A-A520-FAAC69AF6559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442257B7-2166-486A-A520-FAAC69AF6559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442257B7-2166-486A-A520-FAAC69AF6559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D586828-8A8C-482B-BA8E-9BB40FDAC764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D586828-8A8C-482B-BA8E-9BB40FDAC764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D586828-8A8C-482B-BA8E-9BB40FDAC764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D586828-8A8C-482B-BA8E-9BB40FDAC764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E45A7BE-88A2-42DE-A329-55DE91982C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E45A7BE-88A2-42DE-A329-55DE91982C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E45A7BE-88A2-42DE-A329-55DE91982C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E45A7BE-88A2-42DE-A329-55DE91982C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D402AB31-B480-446A-A10F-244C39AAEF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D402AB31-B480-446A-A10F-244C39AAEF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D402AB31-B480-446A-A10F-244C39AAEF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D402AB31-B480-446A-A10F-244C39AAEF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

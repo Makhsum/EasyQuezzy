@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "EasyQuisy.Application": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "EasyQuizy.Wpf"
+    },
+    "Профиль 2": {
+      "commandName": "Executable",
+      "executablePath": "D:\\C#Projects\\EasyQuisy\\EasyQuisy.Wpf\\EasyQuisy.Wpf\\EasyQuisy.Wpf.csproj"
+    }
+  }
+}
