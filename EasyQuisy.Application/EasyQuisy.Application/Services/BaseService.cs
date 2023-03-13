@@ -3,7 +3,7 @@ using EasyQuisy.Domain.Models;
 
 namespace EasyQuisy.Application.Services;
 
-public class BaseService<TEntity>:IBaseService<TEntity> where TEntity:EntityBase
+public abstract class BaseService<TEntity>:IBaseService<TEntity> where TEntity:EntityBase
 {
     public virtual async Task<bool> AddAsync(TEntity entity)
     {

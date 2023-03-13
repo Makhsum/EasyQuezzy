@@ -4,18 +4,17 @@ using EasyQuisy.Domain.Models;
 
 namespace EasyQuisy.Application.Services;
 
-public class TestService:BaseService<Test>,ITestService
+public class AuthorService:BaseService<Author>,IAuthorService
 {
     private readonly IUnitOfWork _unitOfWork;
 
-    public TestService(IUnitOfWork unitOfWork)
+    public AuthorService(IUnitOfWork unitOfWork)
     {
         _unitOfWork = unitOfWork;
     }
-
-    public override async Task<bool> AddAsync(Test entity)
+    public override async Task<bool> AddAsync(Author entity)
     {
-        bool result = await _unitOfWork.Tests.AddAsync(entity);
+        bool result =  await _unitOfWork.Authors.AddAsync(entity);
         if (result)
         {
             await _unitOfWork.CompleteAsync();
@@ -24,20 +23,20 @@ public class TestService:BaseService<Test>,ITestService
         return result;
     }
 
-    public override async Task<bool> UpdateAsync(Test entity, long id)
+    public override async Task<bool> UpdateAsync(Author entity, long id)
     {
-         bool result =  await _unitOfWork.Tests.UpdateAsync(entity, id);
-         if (result)
-         {
-             await _unitOfWork.CompleteAsync();
-         }
+        bool result =  await _unitOfWork.Authors.UpdateAsync(entity, id);
+        if (result)
+        {
+            await _unitOfWork.CompleteAsync();
+        }
 
-         return result;
+        return result;
     }
 
     public override async Task<bool> DeleteAsync(long id)
     {
-        bool result= await _unitOfWork.Tests.DeleteAsync(id);
+        bool result= await _unitOfWork.Authors.DeleteAsync(id);
         if (result)
         {
             await _unitOfWork.CompleteAsync();

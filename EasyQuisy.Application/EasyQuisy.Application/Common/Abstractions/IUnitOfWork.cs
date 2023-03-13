@@ -9,6 +9,5 @@ public interface IUnitOfWork
     IQuestionRepository Questions { get;}
     IQuestionSettingsRepository QuestionSettings { get;}
     ITestRepository Tests { get;}
-    IUserRepository Users { get; }
     Task CompleteAsync();
 }

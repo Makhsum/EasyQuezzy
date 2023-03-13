@@ -13,7 +13,6 @@ public class UnitOfWork:IUnitOfWork
     public IQuestionRepository Questions { get; }
     public IQuestionSettingsRepository QuestionSettings { get; }
     public ITestRepository Tests { get; }
-    public IUserRepository Users { get; }
 
     public UnitOfWork(ApplicationDbContext context)
     {
@@ -23,7 +22,6 @@ public class UnitOfWork:IUnitOfWork
         Questions = new QuestionRepository(_context);
         QuestionSettings = new QuestionSettingsRepository(_context);
         Tests = new TestRepository(_context);
-        Users = new UserRepository(_context);
     }
     public async Task CompleteAsync()
     {

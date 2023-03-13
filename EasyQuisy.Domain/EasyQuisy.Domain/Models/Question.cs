@@ -4,11 +4,9 @@ namespace EasyQuisy.Domain.Models
     {
         public string TypeOfQuestion { get; set; }
         public string QuestionBody { get; set; }
-        
-        public IEnumerable<string> VariantsOfAnsvers { get; set; }
-        
-        
-        
-        
+
+        public IEnumerable<Ansver> VariantsOfAnsvers { get; set; }
+
+
     }
 }
