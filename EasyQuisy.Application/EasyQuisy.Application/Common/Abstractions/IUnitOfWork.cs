@@ -1,3 +1,5 @@
+using EasyQuisy.Application.Common.Abstractions.RepositoryInterfaces;
+
 namespace EasyQuisy.Application.Common.Abstractions;
 
 public interface IUnitOfWork

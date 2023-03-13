@@ -1,4 +1,5 @@
 using EasyQuisy.Application.Common.Abstractions;
+using EasyQuisy.Application.Common.Abstractions.RepositoryInterfaces;
 using EasyQuisy.Infrastructure.Persistense;
 using EasyQuisy.Infrastructure.Repositorys;
 

@@ -1,4 +1,5 @@
 using EasyQuisy.Application.Common.Abstractions;
+using EasyQuisy.Application.Common.Abstractions.RepositoryInterfaces;
 using EasyQuisy.Domain.Models;
 using EasyQuisy.Infrastructure.Persistense;
 
@@ -20,6 +21,8 @@ public class TestRepository:Repository<Test>,ITestRepository
             updatedentity.Description = entity.Description;
             updatedentity.Questions = entity.Questions;
             updatedentity.AuthorId = entity.AuthorId;
+            updatedentity.QuestionSettingsId = entity.QuestionSettingsId;
+            updatedentity.QuestionSettings = entity.QuestionSettings;
             return true;
         }
         catch (Exception e)

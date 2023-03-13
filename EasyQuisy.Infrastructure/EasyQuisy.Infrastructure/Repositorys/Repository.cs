@@ -1,4 +1,5 @@
 using EasyQuisy.Application.Common.Abstractions;
+using EasyQuisy.Application.Common.Abstractions.RepositoryInterfaces;
 using EasyQuisy.Domain.Models;
 using EasyQuisy.Infrastructure.Persistense;
 using Microsoft.EntityFrameworkCore;
